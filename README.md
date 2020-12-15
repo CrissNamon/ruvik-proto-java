@@ -1,5 +1,5 @@
 **Ruvik Proto** - end-to-end encryption protocol developed for university course work as simplified **Signal** protocol
-![Scheme]()
+![Scheme](https://github.com/CrissNamon/ruvik-proto-java/blob/master/RuvikProtoENG.jpg)
 <br>It uses:
 + RSA for session establishment
 + HMAC-SHA256 for key creation
